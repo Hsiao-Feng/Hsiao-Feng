@@ -1,5 +1,7 @@
 ℋ𝒾 𝓉𝒽ℯ𝓇ℯ 👋
 
+<img src="https://cdn.jsdelivr.net/gh/Hsiao-Feng/Hsiao-Feng/%E6%95%99%E5%AD%A6%E7%9A%84%E7%9C%9F%E7%9B%B8%E6%98%AF%E6%B2%9F%E9%80%9A.jpg" alt="教学的真相是沟通"/>
+
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=hsiao-feng" aria-label="Profile Image 个人资料图像" align="right"/></a>
 
 - 💬 I can speak Chinese and English.
