@@ -3,6 +3,7 @@
 <img src="https://cdn.jsdelivr.net/gh/Hsiao-Feng/Hsiao-Feng/%E6%95%99%E5%AD%A6%E7%9A%84%E7%9C%9F%E7%9B%B8%E6%98%AF%E6%B2%9F%E9%80%9A.jpg?20211208" alt="教学的真相是沟通·为师者明此道庶几可登堂入室矣"/>
 
 “教学的真相是沟通·为师者明此道庶几可登堂入室矣”
+
 "The truth of teaching is communication - teachers who understand this can become highly proficient"
 
 
