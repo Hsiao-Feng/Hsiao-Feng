@@ -10,7 +10,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=hsiao-feng" aria-label="Profile Image 个人资料图像" align="right"/></a>
 
 - 💬 I can speak Chinese and English.
-- 👨‍🏭 A volunteer of Mozilla.
+- 👨‍🏭 A volunteer for Mozilla.
 - 🐱 Cat lover, occasional appearance in cat cafe.
 - 🇨🇳 I live in China.
 - 🔭 I’m currently working on front-end.
