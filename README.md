@@ -15,8 +15,6 @@
 - 🇨🇳 I live in China.
 - 🔭 I’m currently working on front-end.
 - ✨ Hopes to make others happy.
-- 🖥️ Website is [hsiaofeng.com](https://hsiaofeng.com/).
-- 📫 You can contact me by [email](mailto:i@hsiaofeng.com) (if you need GPG, [click here](https://hsiaofeng.com/i@hsiaofeng.com.asc)).
 
 𝑮𝒐𝒐𝒅 𝒍𝒖𝒄𝒌 𝒂𝒏𝒅 𝒉𝒐𝒑𝒆 𝒚𝒐𝒖 𝒉𝒂𝒗𝒆 𝒂 𝒏𝒊𝒄𝒆 𝒅𝒂𝒚 **~** 😀
 
