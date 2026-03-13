@@ -9,7 +9,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=hsiao-feng" aria-label="Profile Image 个人资料图像" align="right"/></a>
 
-I'm Hsiao Feng (筱枫).
+I'm Hsiao Feng (<ruby>筱枫<rp>(</rp><rt>Xiǎo Fēng</rt><rp>)</rp></ruby>).
 
 - 💬 I can speak Chinese and English.
 - 👨‍🏭 Working on SEO and front-end.
